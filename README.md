@@ -20,7 +20,7 @@ The publications centers around spatial model for collective-decision making pro
 - Agent-based Modelling
 
 ## Repository Contents
-- `script`: Python program script that implements, calibrates, and runs simuluations of the ABM for the matter of replication.
+- `model`: Python program script that implements, calibrates, and runs simuluations of the ABM for the matter of replication.
 - `report`: PDF of final report.
 
 ## Installation
