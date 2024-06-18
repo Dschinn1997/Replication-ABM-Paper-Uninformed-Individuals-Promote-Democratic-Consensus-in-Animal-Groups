@@ -1,4 +1,4 @@
-# Replication-ABM-Paper-Uninformed-Individuals-Promote-Democratic-Consensus-in-Animal-Groups
+# Replication-Paper-Uninformed-Individuals-Promote-Democratic-Consensus-in-Animal-Groups
 
 ## Project Overview
 This repository contains the code for one of my master's third semester projects for the course "Computational Modelling of Social Systems". In this course our task was to select a publication is based on an agent-based model (ABM) and write a review report about it. If feasible we should also try to replicate the publication or parts of it, yet that was not mandatory as many ABMs are too complicated to implement them within the course's time. I choose to review the publication:
