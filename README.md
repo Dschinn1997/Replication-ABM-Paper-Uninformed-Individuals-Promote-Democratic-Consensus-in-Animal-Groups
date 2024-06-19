@@ -1,19 +1,19 @@
 # Replication-Paper-Uninformed-Individuals-Promote-Democratic-Consensus-in-Animal-Groups
 
 ## Project Overview
-This repository contains the code for one of my master's third semester projects for the course "Computational Modelling of Social Systems". In this course our task was to select a publication is based on an agent-based model (ABM) and write a review report about it. If feasible we should also try to replicate the publication or parts of it, yet that was not mandatory as many ABMs are too complicated to implement them within the course's time. I choose to review the publication:
+This repository contains the code for one of my third semester master's projects for the course "Computational Modelling of Social Systems". In this course our task was to select a publication based on an agent-based model (ABM) and write a review of it. If possible, we should also try to replicate the publication or parts of it, but this was not mandatory as many ABMs are too complicated to be implemented within the time of the course. I decided to review the publication:
 
 - Couzin, I. D., Ioannou, C. C., Demirel, G., Gross, T., Torney, C. J., Hartnett, A., ... & Leonard, N. E. (2011). Uninformed individuals promote democratic consensus in animal groups. science, 334(6062), 1578-1580.
 
-The publications centers around spatial model for collective-decision making processes. Due the course of my review report I tried to replicate Counzin et al's (2011) finding that “self-interested and strongly opinionated minorities can exert their influence on group movement decisions” and so their publication's Figure 1. The code of this repository gives this replication attempt.
+The publications focus on a spatial model of collective decision-making processes. In the course of my review report, I attempted to replicate Counzin et al.'s (2011) finding that "self-interested and strongly opinionated minorities can exert their influence on group movement decisions" and thus Figure 1 of their publication. The code of this repository shows this replication attempt.
 
 ## Objectives
-- Replicate partly the results of Counzin et al's (2011) agent-based model for collective-decision making processes
+- To partially replicate the results of Counzin et al.'s (2011) agent-based model for collective decision-making processes.
 
 ## Key Findings
-- The results could not be exactly replicated and only show a similiar general trend. This stems likely from the fact that
-1. Precise parameter information necessary for exact replication was not given
-2. The lack of computational power
+- The results could not be exactly replicated and only show a similar general trend. This is probably due to the fact that
+1. Precise parameter information necessary for exact replication was not provided.
+2. Lack of computing power
 
 ## Technologies and Tools
 - Simulation
